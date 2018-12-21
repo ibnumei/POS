@@ -1,0 +1,524 @@
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\try_bi.exe.config
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\try_bi.exe
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\try_bi.pdb
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.Linq.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Design.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Vs.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\MetroFramework.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\MySql.Data.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\PrinterUtility.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.Design.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\EnvDTE.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\VSLangProj.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\VsWebSite.Interop.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\stdole.dll
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.xml
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.xml
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.csprojResolveAssemblyReference.cache
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.charge.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.datagridview.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form1.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Conenctor.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form_First_Opened.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Login.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Popup.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.MO_SearchArticle.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.payment.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Properties.Resources.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.RO_SearchArticle.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.RT_SearchArticle.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.SearchArticle.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.SplashScreen.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Shift.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Store.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.uc_coba.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO_List.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Inven_List.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.uc_kembalian.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_MO_List.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Mut_order.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash_List.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Popup_Info.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Promotion.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Req_order.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Ret_order.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RO_list.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RT_list.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Stock_Take.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Trans_hist.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Void_Trans.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_desc_ReqO.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_disc_GetArticle.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_DO_Confirm.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_shift.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_store.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_editQty.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_EditQty_DO.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_edit_SPG_ID.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing_shift.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_input_expense.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_logout.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_PettyCash_Confirm.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_petty_to_cashier.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_Promotion_Popup.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_remark_RT.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_split.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_split_edc.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_StockTake_Confirm.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_stock_take.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_Voucher.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_Vou_Confirm.resources
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.GenerateResource.Cache
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.exe
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.pdb
+C:\Users\fariz\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_ChangePass.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\try_bi.exe.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\try_bi.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\try_bi.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.Linq.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Design.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Vs.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\PrinterUtility.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.Design.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\EnvDTE.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\VSLangProj.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\VsWebSite.Interop.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\stdole.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.charge.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.datagridview.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form1.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Conenctor.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form_First_Opened.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Login.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Popup.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.MO_SearchArticle.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.payment.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.RO_SearchArticle.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.RT_SearchArticle.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.SearchArticle.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.SplashScreen.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Shift.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Store.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.uc_coba.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO_List.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Inven_List.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.uc_kembalian.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_MO_List.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Mut_order.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash_List.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Popup_Info.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Promotion.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Req_order.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Ret_order.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RO_list.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RT_list.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Stock_Take.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Trans_hist.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.Void_Trans.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_ChangePass.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_desc_ReqO.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_disc_GetArticle.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_DO_Confirm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_shift.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_store.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_editQty.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_EditQty_DO.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_edit_SPG_ID.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing_shift.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_input_expense.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_logout.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_PettyCash_Confirm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_petty_to_cashier.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_Promotion_Popup.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_remark_RT.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_split.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_split_edc.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_StockTake_Confirm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.w_stock_take.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_Voucher.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.W_Vou_Confirm.resources
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\BiensiPOS\try_bi\obj\Debug\try_bi.csprojResolveAssemblyReference.cache
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\try_bi.exe.config
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\try_bi.exe
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\try_bi.pdb
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.Linq.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Design.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Vs.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\PrinterUtility.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.Design.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\EnvDTE.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\VSLangProj.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\VsWebSite.Interop.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\stdole.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.xml
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.xml
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\bin\Debug\Vse.Web.Serialization.pdb
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.csprojAssemblyReference.cache
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.charge.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.datagridview.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.Form1.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Conenctor.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.Form_First_Opened.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Login.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Popup.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.MO_SearchArticle.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.payment.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.Properties.Resources.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.RO_SearchArticle.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.RT_SearchArticle.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.SearchArticle.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.SplashScreen.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Shift.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Store.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.uc_coba.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO_List.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Inven_List.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.uc_kembalian.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_MO_List.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Mut_order.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash_List.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Popup_Info.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Promotion.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Req_order.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Ret_order.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RO_list.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RT_list.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Stock_Take.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Trans_hist.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.Void_Trans.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_ChangePass.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_desc_ReqO.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_disc_GetArticle.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_DO_Confirm.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_shift.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_store.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_editQty.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_EditQty_DO.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_edit_SPG_ID.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing_shift.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_input_expense.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_logout.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_PettyCash_Confirm.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_petty_to_cashier.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_Promotion_Popup.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_remark_RT.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_split.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_split_edc.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_StockTake_Confirm.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.w_stock_take.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_Voucher.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.W_Vou_Confirm.resources
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.GenerateResource.cache
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.CoreCompileInputs.cache
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.CopyComplete
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.exe
+C:\Users\Bella\Documents\Visual Studio 2017\Project\BiensiPOS\try_bi\obj\Debug\try_bi.pdb
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\try_bi.exe.config
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.exe
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.pdb
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\try_bi.exe
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\try_bi.pdb
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.Linq.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Design.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Linq.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Vs.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Newtonsoft.Json.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\PrinterUtility.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.Design.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\EnvDTE.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\VSLangProj.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\VsWebSite.Interop.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\stdole.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Microsoft.MSXML.dll
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.xml
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.xml
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\fixing pos\BiensiPOS\try_bi\bin\Debug\Vse.Web.Serialization.pdb
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.csprojResolveAssemblyReference.cache
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.charge.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.datagridview.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form1.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Conenctor.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form_First_Opened.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Login.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Popup.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.MO_SearchArticle.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.payment.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Properties.Resources.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.RO_SearchArticle.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.RT_SearchArticle.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.SearchArticle.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.SplashScreen.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Shift.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Store.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.uc_coba.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO_List.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Inven_List.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.uc_kembalian.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_MO_List.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Mut_order.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash_List.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Popup_Info.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Promotion.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Req_order.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Ret_order.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RO_list.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RT_list.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Stock_Take.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Trans_hist.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Void_Trans.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_ChangePass.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_desc_ReqO.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_disc_GetArticle.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_DO_Confirm.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_shift.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_store.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_editQty.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_EditQty_DO.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_edit_SPG_ID.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing_shift.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_input_expense.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_logout.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_PettyCash_Confirm.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_petty_to_cashier.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_Promotion_Popup.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_remark_RT.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_split.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_split_edc.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_StockTake_Confirm.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_stock_take.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_Voucher.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_Vou_Confirm.resources
+D:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.GenerateResource.Cache
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\try_bi.exe.config
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\try_bi.exe
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\try_bi.pdb
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.Linq.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Design.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Linq.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.Vs.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Newtonsoft.Json.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\PrinterUtility.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.Design.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\EnvDTE.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\VSLangProj.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\VsWebSite.Interop.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\stdole.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.xml
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Devart.Data.MySql.xml
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\fixing pos\BiensiPOS\try_bi\bin\Debug\Vse.Web.Serialization.pdb
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.csprojAssemblyReference.cache
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.charge.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.datagridview.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form1.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Conenctor.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form_First_Opened.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Login.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Form_Popup.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.MO_SearchArticle.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.payment.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Properties.Resources.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.RO_SearchArticle.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.RT_SearchArticle.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.SearchArticle.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.SplashScreen.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Shift.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Closing_Store.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.uc_coba.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_DO_List.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Inven_List.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.uc_kembalian.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_MO_List.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Mut_order.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Petty_Cash_List.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Popup_Info.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Promotion.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Req_order.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Ret_order.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RO_list.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_RT_list.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Stock_Take.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.UC_Trans_hist.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.Void_Trans.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_ChangePass.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_desc_ReqO.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_disc_GetArticle.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_DO_Confirm.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_shift.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_edc_closing_store.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_editQty.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_EditQty_DO.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_edit_SPG_ID.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_form_closing_shift.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_input_expense.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_logout.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_PettyCash_Confirm.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_petty_to_cashier.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_Promotion_Popup.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_remark_RT.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_split.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_split_edc.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_StockTake_Confirm.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.w_stock_take.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_Voucher.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.W_Vou_Confirm.resources
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.GenerateResource.cache
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.CoreCompileInputs.cache
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.csproj.CopyComplete
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.exe
+F:\fixing pos\BiensiPOS\try_bi\obj\Debug\try_bi.pdb
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\try_bi.exe.config
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\try_bi.exe
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\try_bi.pdb
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.Linq.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.MySql.Design.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.MySql.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.MySql.Linq.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.MySql.Vs.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Newtonsoft.Json.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\PrinterUtility.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.Design.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\EnvDTE.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\VSLangProj.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\VsWebSite.Interop.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\stdole.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.xml
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Devart.Data.MySql.xml
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\bin\Debug\Vse.Web.Serialization.pdb
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.csprojAssemblyReference.cache
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.charge.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.datagridview.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.Form1.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.Form_Conenctor.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.Form_First_Opened.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.Form_Login.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.Form_Popup.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.MO_SearchArticle.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.payment.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.Properties.Resources.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.RO_SearchArticle.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.RT_SearchArticle.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.SearchArticle.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.SplashScreen.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Closing_Shift.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Closing_Store.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.uc_coba.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_DO.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_DO_List.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Inven_List.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.uc_kembalian.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_MO_List.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Mut_order.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Petty_Cash.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Petty_Cash_List.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Popup_Info.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Promotion.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Req_order.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Ret_order.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_RO_list.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_RT_list.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Stock_Take.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.UC_Trans_hist.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.Void_Trans.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_ChangePass.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_desc_ReqO.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_disc_GetArticle.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_DO_Confirm.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_edc.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_edc_closing_shift.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_edc_closing_store.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_editQty.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_EditQty_DO.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_edit_SPG_ID.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_form_closing.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_form_closing_shift.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_input_expense.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_logout.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_PettyCash_Confirm.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_petty_to_cashier.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_Promotion_Popup.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_remark_RT.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_split.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_split_edc.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_StockTake_Confirm.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.w_stock_take.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_Voucher.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.W_Vou_Confirm.resources
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.csproj.GenerateResource.cache
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.csproj.CoreCompileInputs.cache
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.csproj.CopyComplete
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.exe
+E:\BiensiPOS 26-11-2018 Inv Hit Local Dirga\try_bi\obj\Debug\try_bi.pdb

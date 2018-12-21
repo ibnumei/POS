@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <Product>
+    <Product_id>1</Product_id>
+    <Product_name>thomas</Product_name>
+    <Product_price>1000</Product_price>
+    <pass_db>ibnumei</pass_db>
+    <link_api>http://192.168.1.71:8082</link_api>
+    <code_pc>
+    </code_pc>
+  </Product>
+</Table>
